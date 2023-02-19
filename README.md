@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Sathish
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Just getting started with github and my webdevelopment journey
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
 
 Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently looking to add some miniprojects. 
 
 
 
